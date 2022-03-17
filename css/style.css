@@ -1,0 +1,255 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background-color: #f5f7fa;
+}
+
+.biggy {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    background-color: #fff;
+    margin: 40px auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-cont {
+    margin: 100px 90px;
+}
+
+.about-me {
+    color: #000;
+    font-size: 14px;
+    font-weight: 700;
+    margin: 0 0 40px;
+}
+
+.profession {
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 20px;
+}
+
+.name {
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    margin: 20px 0;
+}
+
+.text-about-me {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 400px;
+}
+
+.project-section {
+    margin: 0 0 50px 0;
+}
+
+.projects-work {
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.freelance {
+    margin-bottom: 15px;
+}
+
+.kopyta-new {
+    margin-bottom: 20px;
+}
+
+.kopyta-llc {
+    margin-bottom: 40px;
+}
+
+.projects-list {
+    padding: 0 0 0 15px;
+}
+
+.projects-item {
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.projects-text {
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 6px;
+}
+
+.projects-link {
+    color: #595959;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.blockers {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+}
+
+.vakancy {
+    margin-bottom: 10px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.work-name {
+    color: #fb6d3a;
+}
+
+.write {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin-bottom: 10px;
+}
+
+.wall {
+    color: #000;
+}
+
+.ball {
+    padding: 0 0 0 18px;
+}
+
+.work-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.education-head {
+    padding-bottom: 1 px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.university {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #fb6d3a;
+    margin-bottom: 10px;
+}
+
+.management {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 10px;
+}
+
+/* sidebar section */
+.side-bar {
+    background-color: #1e2939;
+    width: 370px;
+    padding: 40px 0px;
+}
+.contacts {
+    margin-top: 50px;
+    padding-left: 40px;
+}
+
+.tech-skills {
+    margin-top: 50px;
+    padding-left: 40px;
+}
+
+.soft-skills {
+    margin-top: 40px;
+    padding-left: 40px;
+}
+
+.side-bar-tittle {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+
+.abca {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 64px;
+}
+
+.abce {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 51px;
+}
+
+.abcd {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    margin-right: 17px;
+}
+
+.follow {
+    color: #7a838f;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.knocks {
+    padding: 0 0 0 15px;
+}
+
+.knock {
+    color: #fb6d3a;
+    padding-right: 15px;
+}
+
+.knock-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #fff;
+    padding-left: 5px;
+}
